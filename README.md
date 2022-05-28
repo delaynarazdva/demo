@@ -1,2 +1,0 @@
-# demo
-from edureka
